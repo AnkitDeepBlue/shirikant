@@ -1,0 +1,4 @@
+[0329/131105.123:ERROR:file_io_win.cc(180)] CreateFile C:\Users\ovonel\AppData\Local\Temp\scoped_dir488_1959820497\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0329/131817.495:ERROR:file_io_win.cc(180)] CreateFile C:\Users\ovonel\AppData\Local\Temp\scoped_dir7224_1981787052\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0330/152525.290:ERROR:file_io_win.cc(180)] CreateFile C:\Users\ovonel\AppData\Local\Temp\scoped_dir4580_1576206540\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0426/104935.804:ERROR:file_io_win.cc(180)] CreateFile C:\Users\ovonel\AppData\Local\Temp\scoped_dir11636_1539721792\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
